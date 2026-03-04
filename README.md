@@ -65,4 +65,17 @@ gantt
         Livraision Hub SERM V2               :milestone, 2028-06-30
         Intégration data vague 3             :9M
         Livraision Hub SERM V3               :milestone, 2029-03-31
+    section L4 Brique traitement
+        Choix Briques rang 1                 :2026-04-01, 3M
+        Brique trafic routier + rang1        :6M
+        Sélection briques rang 2             :2026-07-01, 6M
+        Livraison des briques 1              :milestone, 2026-12-31
+        Intégration briques rang 2           :9M
+        Sélection briques rang 3             :2027-01-01, 9M
+        Livraison des briques  2             :milestone, 2027-09-30
+        Intégration briques rang 3           :9M
+        Sélection briques rang 4             :2027-10-01, 9M
+        Livraison des briques 3              :milestone, 2028-06-30
+        Intégration briques rang 4           :2028-07-01, 9M
+        Livraison des briques 4              :milestone, 2029-03-31
 ```
