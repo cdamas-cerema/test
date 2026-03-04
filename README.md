@@ -70,23 +70,23 @@ gantt
 
     section L3.2 HUB SERM
         Intégration open data                :2026-10-01, 3M
-        L3-SERM-B  open data                 :milestone, 2027-04-01, 1m
-        Mise à jour roadmap 2                :2026-10-01, 3M
-        L3-GPE-D roadmap 2                   :milestone, 2026-12-31, 1m
-        Intégration data vague 2             :2027-01-01, 6M
-        L3-GPE-E data vague 2                :milestone, 2027-07-01, 1m
-        Mise à jour roadmap 3                :2027-01-01, 3M
-        L3-GPE-F roadmap 3                   :milestone, 2027-04-01, 1m
-        Intégration data vague 3             :2027-07-01, 6M
-        L3-GPE-G data vague 3                :milestone, 2028-01-01, 1m
-        Mise à jour roadmap 4                :2027-07-01, 3M
-        L3-GPE-H roadmap 4                   :milestone, 2027-10-01, 1m
-        Intégration data vague 4             :2028-01-01, 6M
-        L3-GPE-I data vague 4                :milestone, 2028-07-01, 1m
-        Mise à jour roadmap 5                :2028-01-01, 3M
-        L3-GPE-J roadmap 5                   :milestone, 2028-04-01, 1m
-        Intégration data vague 5             :2028-07-01, 6M
-        L3-GPE-K data vague 5                :milestone, 2029-01-01, 1m
+        L3-SERM-A  open data                 :milestone, 2027-04-01, 1m
+        Mise à jour roadmap 1                :2026-10-01, 3M
+        L3-SERM-B roadmap 1                   :milestone, 2026-12-31, 1m
+        Intégration data vague 1             :2027-01-01, 6M
+        L3-SERM-C data vague 1                :milestone, 2027-07-01, 1m
+        Mise à jour roadmap 2                :2027-01-01, 3M
+        L3-SERM-D roadmap 2                   :milestone, 2027-04-01, 1m
+        Intégration data vague 2             :2027-07-01, 6M
+        L3-SERM-E data vague 2                :milestone, 2028-01-01, 1m
+        Mise à jour roadmap 3                :2027-07-01, 3M
+        L3-SERM-F roadmap 3                  :milestone, 2027-10-01, 1m
+        Intégration data vague 3             :2028-01-01, 6M
+        L3-SERM-G data vague 3               :milestone, 2028-07-01, 1m
+        Mise à jour roadmap 4                :2028-01-01, 3M
+        L3-SERM-H roadmap 4                   :milestone, 2028-04-01, 1m
+        Intégration data vague 4             :2028-07-01, 6M
+        L3-SERM-I data vague 4               :milestone, 2029-01-01, 1m
 
     section L4 Brique traitement
         Sélection briques rang 1             :2026-04-01, 3M
