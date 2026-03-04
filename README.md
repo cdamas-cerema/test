@@ -19,6 +19,7 @@ gantt
         COPIL                                :milestone, 2028-03-31, 1m
         COPIL                                :milestone, 2028-09-30, 1m
         COPIL                                :milestone, 2029-03-31, 1m
+        Réversabilité du MDH                 :2028-10-01, 6M
         Suivi technique/scientifique         :2026-10-01, 30M
 
     section L2 Plateforme
@@ -86,7 +87,5 @@ gantt
 
     section L5.2 Gouvernance
         Préfiguration du MDH                 :2026-10-01, 12M
-        Consolidation du MDH                 :2027-10-01, 12M
-        Réversabilité du MDH                 :2028-10-01, 6M
-        
+        Consolidation du MDH                 :2027-10-01, 12M      
 ```
