@@ -54,4 +54,15 @@ gantt
         Livraision Hub GPE V2                :milestone, 2028-03-31
         Intégration data vague 3             :2028-04-01, 12M
         Livraision Hub GPE V3                :milestone, 2029-03-31
+    section L3.2 HUB SERM
+        Définition du SERM                   :milestone, 2026-09-29
+        Besoins en data                      :2026-10-01, 3M
+        Roadmap Hub SERM                     :milestone, 2026-12-31
+        Intégration opendata                 :3M
+        Intégration data vague 1             :6M
+        Livraision Hub SERM V1               :milestone, 2027-09-30
+        Intégration data vague 2             :9M
+        Livraision Hub SERM V2               :milestone, 2028-06-30
+        Intégration data vague 3             :9M
+        Livraision Hub SERM V3               :milestone, 2029-03-31
 ```
