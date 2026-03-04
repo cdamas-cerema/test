@@ -91,16 +91,19 @@ gantt
     section L4 Brique traitement
         Sélection briques rang 1             :2026-04-01, 3M
         Intégration briques rang1            :6M
-        Sélection briques rang 2             :2026-10-01, 3M
+        Sélection briques rang 2             :2026-07-01, 3M
         Livraison des briques 1              :milestone, 2026-12-31, 1m
-        Intégration briques rang 2           :9M
-        Sélection briques rang 3             :2027-07-01, 3M
-        Livraison des briques  2             :milestone, 2027-09-30, 1m
-        Intégration briques rang 3           :9M
-        Sélection briques rang 4             :2028-04-01, 3M
-        Livraison des briques 3              :milestone, 2028-06-30, 1m
-        Intégration briques rang 4           :2028-07-01, 9M
-        Livraison des briques 4              :milestone, 2029-03-31, 1m
+        Intégration briques rang 2           :2027-01-01, 6M
+        Sélection briques rang 3             :2027-01-01, 3M
+        Livraison des briques  2             :milestone, 2027-06-30, 1m
+        Intégration briques rang 3           :2027-07-01, 6M
+        Sélection briques rang 4             :2027-07-01, 3M
+        Livraison des briques 3              :milestone, 2028-01-01, 1m
+        Intégration briques rang 4           :2028-01-01, 6M
+        Sélection briques rang 5             :2028-01-01, 3M
+        Livraison des briques 4              :milestone, 2028-07-01, 1m
+        Intégration briques rang 5           :2028-07-01, 6M
+        Livraison des briques 5              :milestone, 2029-01-01, 1m
 
     section L5.1 Communautée
         Kit Com                              :2026-04-01, 3M
