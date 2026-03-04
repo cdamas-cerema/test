@@ -13,13 +13,18 @@ gantt
     section L1 Gestion projet
         Installation des instances           :a1, 2026-04-01, 3M
         Pilotage                             :2026-07-01, 33M
+        L1-A PAQ                             :milestone, 2026-09-23, 1m
         COPIL                                :milestone, 2026-09-30, 1m
+        L1-B Bilan année 1                   :milestone, 2027-03-23, 1m
         COPIL                                :milestone, 2027-03-31, 1m
         COPIL                                :milestone, 2027-09-30, 1m
+        L1-C Bilan année 2                   :milestone, 2028-03-23, 1m
         COPIL                                :milestone, 2028-03-31, 1m
         COPIL                                :milestone, 2028-09-30, 1m
+        L1-D Bilan final                     :milestone, 2029-03-23, 1m
         COPIL                                :milestone, 2029-03-31, 1m
         Réversabilité du MDH                 :2028-10-01, 6M
+        L1-E Plan de résersibilité           :milestone, 2029-03-23, 1m
         Suivi technique/scientifique         :2026-10-01, 30M
 
     section L2 Plateforme
@@ -39,10 +44,11 @@ gantt
         Formation                            :2026-07-01, 33M
         Adminstration                        :2026-07-01, 33M
 
-    section L3.1 HUB GPE
-        Besoins                              :2026-04-01, 3M
-        Roadmap Hub GPE                      :milestone, 2026-06-30, 1m
+    section L3 HUB GPE
+        Besoins GPE                          :2026-04-01, 3M
+        L3-GPE-A Données à intégrer          :milestone, 2026-06-30, 1m
         Intégration opendata                 :2026-07-01, 3M
+        L3-GPE-B opendata intégrée           :milestone, 2026-06-30, 1m
         Intégration data vague 1             :2026-10-01, 6M
         Mise à jour roadmap                  :2027-01-01, 3M
         Livraision Hub GPE V1                :milestone, 2027-03-31, 1m
