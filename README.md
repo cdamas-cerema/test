@@ -118,9 +118,12 @@ gantt
         L5-F Documents génériques            :milestone, 2028-07-01, 1m
         Animation écoute                     :6M
         L5-H Documents génériques            :milestone, 2029-01-01, 1m
-        Recherche de partenaires             :2027-04-01, 24M
 
     section L5.2 Gouvernance
-        Préfiguration du MDH                 :2026-10-01, 12M
-        Consolidation du MDH                 :2027-10-01, 12M      
+        Recherche de partenaires             :2027-07-01, 6M
+        L5-E Etude de pérenisation du MDH    :milestone, 2028-01-01, 1m
+        Préfiguration du MDH                 :2028-01-01, 6M
+        L5-G Etude de pérenisation du MDH    :milestone, 2028-07-01, 1m
+        Consolidation du MDH                 :2028-07-01, 6M
+        L5-I Etude de pérenisation du MDH    :milestone, 2029-01-01, 1m   
 ```
