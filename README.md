@@ -48,15 +48,25 @@ gantt
         Besoins GPE                          :2026-04-01, 3M
         L3-GPE-A Données à intégrer          :milestone, 2026-06-30, 1m
         Intégration opendata                 :2026-07-01, 3M
-        L3-GPE-B opendata intégrée           :milestone, 2026-06-30, 1m
+        L3-GPE-B opendata intégrée           :milestone, 2026-09-30, 1m
         Intégration data vague 1             :2026-10-01, 6M
-        Mise à jour roadmap                  :2027-01-01, 3M
-        Livraision Hub GPE V1                :milestone, 2027-03-31, 1m
-        Intégration data vague 2             :2027-04-01, 12M
-        Mise à jour roadmap                  :2028-01-01, 3M
-        Livraision Hub GPE V2                :milestone, 2028-03-31, 1m
-        Intégration data vague 3             :2028-04-01, 12M
-        Livraision Hub GPE V3                :milestone, 2029-03-31, 1m
+        L3-GPE-C  data vague 1               :milestone, 2027-04-01, 1m
+        Mise à jour roadmap 2                :2026-10-01, 3M
+        L3-GPE-D roadmap 2                   :milestone, 2026-12-31, 1m
+        Intégration data vague 2             :2027-01-01, 6M
+        L3-GPE-E data vague 2                :milestone, 2027-07-01, 1m
+        Mise à jour roadmap 3                :2027-01-01, 3M
+        L3-GPE-F roadmap 3                   :milestone, 2027-04-01, 1m
+        Intégration data vague 3             :2027-07-01, 6M
+        L3-GPE-G data vague 3                :milestone, 2028-01-01, 1m
+        Mise à jour roadmap 4                :2027-07-01, 3M
+        L3-GPE-H roadmap 4                   :milestone, 2027-10-01, 1m
+        Intégration data vague 4             :2028-01-01, 6M
+        L3-GPE-I data vague 4                :milestone, 2028-07-01, 1m
+        Mise à jour roadmap 5                :2028-01-01, 3M
+        L3-GPE-J roadmap 5                   :milestone, 2028-04-01, 1m
+        Intégration data vague 5             :2028-07-01, 6M
+        L3-GPE-K data vague 5                :milestone, 2029-01-01, 1m
 
     section L3.2 HUB SERM
         Définition du SERM                   :milestone, 2026-03-29, 1m
