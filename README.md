@@ -69,8 +69,8 @@ gantt
         L3-GPE-K data vague 5                :milestone, 2029-01-01, 1m
 
     section L3.2 HUB SERM
-        Intégration data vague 1             :2026-10-01, 3M
-        L3-GPE-C  data vague 1               :milestone, 2027-04-01, 1m
+        Intégration open data                :2026-10-01, 3M
+        L3-SERM-B  open data                 :milestone, 2027-04-01, 1m
         Mise à jour roadmap 2                :2026-10-01, 3M
         L3-GPE-D roadmap 2                   :milestone, 2026-12-31, 1m
         Intégration data vague 2             :2027-01-01, 6M
