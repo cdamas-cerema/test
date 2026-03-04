@@ -106,10 +106,18 @@ gantt
         Livraison des briques 5              :milestone, 2029-01-01, 1m
 
     section L5.1 Communautée
-        Kit Com                              :2026-04-01, 3M
-        Recueil des besoins  hors SGP        :9M
-        Recueil des besoins                  :12M
-        Recueil des besoins                  :12M
+        Production Kit Com                   :2026-04-01, 3M
+        L5-A Kit de communication            :milestone, 2026-07-01, 1m
+        Animation écoute                     :6M
+        L5-B Documents génériques            :milestone, 2027-01-01, 1m
+        Animation écoute                     :6M
+        L5-C Documents génériques            :milestone, 2027-07-01, 1m
+        Animation écoute                     :6M
+        L5-D Documents génériques             :milestone, 2028-01-01, 1m
+        Animation écoute                     :6M
+        L5-F Documents génériques            :milestone, 2028-07-01, 1m
+        Animation écoute                     :6M
+        L5-H Documents génériques            :milestone, 2029-01-01, 1m
         Recherche de partenaires             :2027-04-01, 24M
 
     section L5.2 Gouvernance
