@@ -31,13 +31,27 @@ gantt
         Enrichissement fonctionnel           :6M
         Plateforme V1                        :milestone, 2027-01-01
         Enrichissement fonctionnel           :6M
-        Plateforme V2                        :milestone, 2027-01-01
+        Plateforme V2                        :milestone, 2027-07-01
         Enrichissement fonctionnel           :6M
-        Plateforme V3                        :milestone, 2027-01-01
+        Plateforme V3                        :milestone, 2028-01-01
         Enrichissement fonctionnel           :6M
-        Plateforme V4                        :milestone, 2027-01-01
+        Plateforme V4                        :milestone, 2028-07-01
         Enrichissement fonctionnel           :6M
-        Plateforme V5                        :milestone, 2027-01-01
-        Consolidation du MDH                 :2027-10-01, 12M
-        Réversabilité du MDH                 :2028-10-01, 6M
+        Plateforme V5                        :milestone, 2029-01-01
+        Maintenance                          :2026-07-01, 33M
+        Formation                            :2026-07-01, 33M
+        Adminstration                        :2026-07-01, 33M
+
+    section L3.1 HUB GPE
+        Besoins                              :2026-04-01, 3M
+        Roadmap Hub GPE                      :milestone, 2026-06-30
+        Intégration opendata                 :2026-07-01, 3M
+        Intégration data vague 1             :2026-10-01, 6M
+        Mise à jour roadmap                  :2027-01-01, 3M
+        Livraision Hub GPE V1                :milestone, 2027-03-31
+        Intégration data vague 2             :2027-04-01, 12M
+        Mise à jour roadmap                  :2028-01-01, 3M
+        Livraision Hub GPE V2                :milestone, 2028-03-31
+        Intégration data vague 3             :2028-04-01, 12M
+        Livraision Hub GPE V3                :milestone, 2029-03-31
 ```
