@@ -24,17 +24,17 @@ gantt
 
     section L2 Plateforme
         Mise en place de la plateforme       :2026-04-01, 3M
-        Plateforme V0                        :milestone, 2026-07-01, 1m
+        L2-A Plateforme V0                   :milestone, 2026-07-01, 1m
         Enrichissement fonctionnel           :6M
-        Plateforme V1                        :milestone, 2027-01-01, 1m
+        L2-B Plateforme V1                   :milestone, 2027-01-01, 1m
         Enrichissement fonctionnel           :6M
-        Plateforme V2                        :milestone, 2027-07-01, 1m
+        L2-C Plateforme V2                   :milestone, 2027-07-01, 1m
         Enrichissement fonctionnel           :6M
-        Plateforme V3                        :milestone, 2028-01-01, 1m
+        L2-D Plateforme V3                    :milestone, 2028-01-01, 1m
         Enrichissement fonctionnel           :6M
-        Plateforme V4                        :milestone, 2028-07-01, 1m
+        L2-E Plateforme V4                   :milestone, 2028-07-01, 1m
         Enrichissement fonctionnel           :6M
-        Plateforme V5                        :milestone, 2029-01-01, 1m
+        L2-F Plateforme V5                   :milestone, 2029-01-01, 1m
         Maintenance                          :2026-07-01, 33M
         Formation                            :2026-07-01, 33M
         Adminstration                        :2026-07-01, 33M
