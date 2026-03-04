@@ -78,4 +78,11 @@ gantt
         Livraison des briques 3              :milestone, 2028-06-30
         Intégration briques rang 4           :2028-07-01, 9M
         Livraison des briques 4              :milestone, 2029-03-31
+    section L5 Communautée
+        Kit Com                              :2026-04-01, 3M
+        Recueil des besoins  hors SGP        :9M
+        Recueil des besoins                  :12M
+        Recueil des besoins                  :12M
+        Recherche de partenaires             :2027-04-01, 24M
+        
 ```
