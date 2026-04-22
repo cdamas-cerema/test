@@ -11,8 +11,8 @@ gantt
         22 avril : milestone, m1, 2026-04-22, 0d
 
     section L1
-        L1-B                                 :2026-06-01, 6M
-        L1-A                                 :2026-06-01, 6M
+        L1-B                                 :2026-07-01, 6M
+        L1-A                                 :2026-07-01, 6M
         J1                                   :milestone, 2027-01-01, 1m
 
     section L2
