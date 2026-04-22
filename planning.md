@@ -16,27 +16,27 @@ gantt
         J1                                   :milestone, 2027-01-01, 1m
 
     section L2
-        L2-B                                 :2026-06-01, 6M
-        L2-A                                 :2026-06-01, 6M
-        J2                                   :milestone, 2027-01-01, 1m
+        L2-B                                 :2027-01-01, 6M
+        L2-A                                 :2027-01-01, 6M
+        J2                                   :milestone, 2027-07-01, 1m
 
     section L3
-        L3-B                                 :2026-06-01, 6M
-        L3-A                                 :2026-06-01, 6M
-        J3                                   :milestone, 2027-01-01, 1m
+        L3-B                                 :2027-07-01, 6M
+        L3-A                                 :2027-07-01, 6M
+        J3                                   :milestone, 2028-01-01, 1m
 
     section L4
-        L4-B                                 :2026-06-01, 6M
-        L4-A                                 :2026-06-01, 6M
-        J4                                   :milestone, 2027-01-01, 1m
+        L4-B                                 :2028-01-01, 6M
+        L4-A                                 :2028-01-01, 6M
+        J4                                   :milestone, 2028-07-01, 1m
 
     section L5
-        L5-B                                 :2026-06-01, 6M
-        L5-A                                 :2026-06-01, 6M
-        J5                                   :milestone, 2027-01-01, 1m
+        L5-B                                 :2028-07-01, 6M
+        L5-A                                 :2028-07-01, 6M
+        J5                                   :milestone, 2029-01-01, 1m
 
     section L6
-        L6-B                                 :2026-06-01, 6M
-        J6                                   :milestone, 2027-01-01, 1m
+        L6-B                                 :2029-01-01, 6M
+        J6                                   :milestone, 2029-07-01, 1m
         
 ```
