@@ -1,14 +1,14 @@
-# Planning global MDH
+# Mobility Data Hub
 ```mermaid
 gantt
-    title Planning MDH
+    title Planning
     dateFormat YYYY-MM-DD
     axisFormat %y-Q%q
     tickInterval 3month
 
     section Aujourd'hui
         %% This task forces the chart to start at the beginning of the year
-        22 avril : milestone, m1, 2026-04-22, 0d
+        22/04 : milestone, m1, 2026-04-22, 0d
 
     section L1
         L1-B                                 :2026-07-01, 6M
