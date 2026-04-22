@@ -1,4 +1,4 @@
-# test
+# Planning global MDH
 ```mermaid
 gantt
     title Planning MDH
@@ -6,9 +6,9 @@ gantt
     axisFormat %y-Q%q
     tickInterval 3month
 
-    section today
+    section Aujourd'hui
         %% This task forces the chart to start at the beginning of the year
-        now : milestone, m1, 2026-04-22, 0d
+        22 avril : milestone, m1, 2026-04-22, 0d
 
     section L1
         L1-B                                 :2026-06-01, 6M
