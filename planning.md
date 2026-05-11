@@ -8,7 +8,7 @@ gantt
 
     section Aujourd'hui
         %% This task forces the chart to start at the beginning of the year
-        22/04 : milestone, m1, 2026-04-22, 0d
+        11/05 : milestone, m1, 2026-05-11, 0d
 
     section L1
         L1-B                                 :2026-07-01, 6M
@@ -37,6 +37,7 @@ gantt
 
     section L6
         L6-B                                 :2029-01-01, 6M
+        L6-A                                 :2029-01-01, 6M
         J6                                   :milestone, 2029-07-01, 1m
         
 ```
